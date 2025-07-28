@@ -1,13 +1,6 @@
 # Resume-Shortlister
 A tool that can be used to parse and sort through a wide arrays of resumes according to specific needs to massively boost the time it takes to find the right candidate
 
-Of course. Here is the raw Markdown text from the `README.md` file. You can copy and paste this directly into GitHub.
-
-```markdown
-# AI-Powered Resume Shortlister
-
-This is a command-line tool that uses Google's Gemini Large Language Model to automate the process of screening and shortlisting candidates from their PDF resumes. It extracts key information, saves it to a structured CSV file, and provides a powerful interface to search and sort candidates instantly.
-
 ## Features
 
 * **Automated Data Extraction:** Intelligently parses PDF resumes to extract key details like name, experience, college, tech stack, and more.
